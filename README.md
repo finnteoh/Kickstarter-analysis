@@ -1,2 +1,2 @@
-# Kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns
+Performed various data analysis such as pivot table, measure of central tendency, and etc. on the Kickstater dataset provided to extract information to aid and amplify in the success for Louise's future Kickstarter campaign. Data was extracted from the dataset to compare success and failed campaigns in Louise's area of interest (plays campaigned in the States, and theatre campigns in Great Britain). 
